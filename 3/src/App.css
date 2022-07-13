@@ -1,0 +1,26 @@
+
+.Navbar{
+
+    position: relative;
+    align-items: center;
+
+}
+
+.theBody{
+
+    width: 100%;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.firstCol{
+    margin-top: 5rem ;
+    margin-left: 5rem;
+}
+
+.thirdCol{
+    margin-right: 2rem;
+}
+
+
+

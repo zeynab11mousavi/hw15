@@ -1,0 +1,46 @@
+*{
+    color: #fff;
+    /* width: fit-content; */
+}
+
+.InsideInfo{
+
+    margin: 1rem;
+}
+
+.Name{
+    font-size: 52px;
+}
+#Zeynab{
+    color:#ea494a;
+}
+button{
+    margin: 2rem 0;
+    color: #fff;
+    background-color: #ea494a;
+    width: 10rem;
+    height: auto;
+    padding: 10px;
+    font-size: larger;
+    border-radius: 10px;
+    position: relative;
+    text-align: start;
+
+    
+}
+#JobTitle{
+    font-size: xx-large;
+    margin: 1rem 0;
+}
+#arrow{
+
+    background-color: #e56767;
+    padding: 5px;
+    border-radius: 10px;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 5px;
+    cursor: pointer;
+    
+}

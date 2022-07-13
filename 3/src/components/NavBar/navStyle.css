@@ -1,0 +1,35 @@
+/* NAVBAR STYLES */
+
+*{
+  margin: 0;
+  padding: 0;
+}
+.NavbarInner{
+  margin-top: 7rem;
+  display: flex;
+  color: #fff;
+  flex-wrap: wrap;
+  align-items: center;
+  flex-direction: row;
+  padding: 1rem;
+
+  }
+
+  .titleName{
+    cursor: pointer;
+    margin-left: 5rem;
+  }
+  
+  .email{
+    margin-left: 7rem;
+    margin-top: 2rem;
+
+  }
+  .menu{
+    position: absolute;
+    right: 5rem; 
+    width: 30px;
+    height: 30px;
+    color: rgb(145, 144, 144);
+    cursor: pointer;
+  }

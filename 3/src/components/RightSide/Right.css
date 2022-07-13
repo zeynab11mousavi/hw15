@@ -1,0 +1,70 @@
+*{
+    margin: 0%;
+    padding: 0ch;
+}
+
+.container{
+    /* margin-top: 5rem; */
+
+
+}
+
+.CircleWrapper{
+    position: relative;
+    height: 7rem;
+    margin-bottom: 1rem;
+}
+
+.CircleWrapper>*{
+    position: absolute;
+    border-radius: 100%;
+}
+#emptyBlue{
+    border: 3px solid #1ac9ed;
+    width: 60px;
+    height: 60px;
+    left: 6rem;
+}
+#red{
+    width: 25px;
+    height: 25px;
+    border: 3px solid #ea494a;
+    left: 9rem;
+}
+#fullBlue{
+    width: 35px;
+    height: 35px;
+    border: none;
+    background-color: #1ac9ed;
+    left: 14rem;
+    bottom: 0;
+
+}
+
+#introducingMySelf{
+
+    font-size: x-large;
+}
+
+#belowIntroduce{
+    margin: 2rem 0;
+    font-size: larger;
+}
+
+#Export {
+ color: #ea494a;
+ margin-bottom: 1rem;
+}
+#CV,
+.IconDownload{
+ color: #ea494a;
+ font-size: larger;
+
+}
+
+.chat{
+    position: absolute;
+    font-size: larger;
+    right: 5rem;
+    bottom: 5rem;
+}

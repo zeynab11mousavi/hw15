@@ -1,0 +1,7 @@
+.img{
+    background-image: url(./pic/Me.png);
+    background-size: contain;
+    width: 100%;
+    height: 690px;
+    background-repeat: no-repeat;
+}
