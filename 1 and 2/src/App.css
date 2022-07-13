@@ -1,0 +1,11 @@
+.ExerciseOne{
+
+    margin-left: 41rem ;
+}
+
+
+.ExerciseTwo{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 5rem;
+}
